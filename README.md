@@ -3,7 +3,7 @@ Installation ( using update version )
 ------------
 
 ```bash
-pip install https://github.com/drangonzhou/pycudnn/archive/0.0.3-p2.tar.gz
+pip install https://github.com/drangonzhou/pycudnn/archive/0.0.3-p3.tar.gz
 ```
 
 
